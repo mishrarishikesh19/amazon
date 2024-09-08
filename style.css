@@ -141,7 +141,7 @@
    .hero-section {
        background-image: url("./assets/hero.jpg");
        background-size: cover;
-       height: 400px;
+       height: 350px;
        display: flex;
        justify-content: center;
        align-items: flex-end;
@@ -174,7 +174,7 @@
        /** border: 2px solid rgb(177, 139, 139); **/
         height: 400px;
         width: 24%;
-        background-color: #e2e7e6;
+        background-color: #d4e1de;
         background-color: white;
         padding: 20px 0px 15px;
         margin-top: 15px;
@@ -267,4 +267,4 @@
     }
     .copy-right{
         padding: 5px;
-    }    
+    } 
