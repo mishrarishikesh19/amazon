@@ -1,4 +1,4 @@
-/*Amazon clone*/
+/*Amazon-logo*/
 
     *{
         margin: 0;
@@ -30,7 +30,7 @@
         border: 1.5px solid white;
     }
 
-/** Steep- 2 **/
+/** Deliver-address **/
 
     .add-first{
         color: #cccccc;
@@ -48,7 +48,7 @@
     }
 
 
-/** Steep-3 **/
+/** Search-baar **/
 
     .nav-search{
         display: flex;
@@ -87,7 +87,7 @@
     }
 
 
-/**Steep-4**/
+/**Sign-in**/
 
     span{
         font-size: 0.9rem;
@@ -98,7 +98,7 @@
     }
 
 
-/** Steep-5**/
+/** cart-option **/
 
     .nav-cart{
         font-size: 100px;
@@ -159,6 +159,7 @@
     }
     .hero-msg a{
         color: #007185;
+        text-decoration: none;
     }
 
 
@@ -177,7 +178,7 @@
         background-color: #d4e1de;
         background-color: white;
         padding: 20px 0px 15px;
-        margin-top: 15px;
+        margin-top: 20px;
     }
     .box-image{
         height: 300px;
@@ -194,7 +195,7 @@
     }
 
 
-    /**footer**/
+    /** footer **/
 
     footer{
         margin-top: 15px;
@@ -254,6 +255,7 @@
         font-size: 0.85rem;
         margin-top: 2px;
         color: white;
+        text-decoration: none;
     }
     .foot-panel5{
         background-color: #0f1111;
